@@ -1,0 +1,7 @@
+Visual 2
+shape(3)
+.color(5,0,5)
+.scale(1.5)
+.modulate (voronoi(3),0.8)
+.add(osc(10).color(0.5,0,0.3),2.5)
+.out()
